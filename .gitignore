@@ -1,0 +1,5 @@
+# Ignore the .exercism directory
+**/.exercism
+
+# Ignore the .stack-work directory
+**/.stack-work
